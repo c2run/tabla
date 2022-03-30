@@ -6,4 +6,5 @@
      echo $i."x".$x.'='. $i*$x."<br>";
   }
  }
+ //cambios test 
 ?>
